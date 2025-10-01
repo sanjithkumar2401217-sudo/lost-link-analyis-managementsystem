@@ -1,0 +1,5 @@
+{
+  "name": "Lost Link Analysis Management System",
+  "description": "A web application to manage and analyze lost and found items. It features a dashboard, item management, smart item entry powered by Gemini, and reporting with visualizations.",
+  "requestFramePermissions": []
+}
